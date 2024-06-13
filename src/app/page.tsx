@@ -43,7 +43,7 @@ export default function Home() {
                     </div>
                 ) : (
                     <div className="w-[60%]">
-                        <div className="w-[100%] flex align-middle justify-between">
+                        <div className="w-[100%] flex align-middle justify-start">
                             <div>
                                 <input
                                     className="w-[400px] bg-gray-700 h-[45px] border-0 rounded-md px-[10px] text-lg font-semibold"
